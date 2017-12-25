@@ -18,7 +18,21 @@ public class AA {
     public static void main(String[] args) {
 
         //  Auto-generated method stub
+        
+        System.out.println(Getdaxiao(8,8));
 
+    }
+    
+    public static boolean Getdaxiao(int x,int y){
+        /*1.
+         * if(x == y){
+           return true;
+        }else{
+            return false;
+        }*/
+        
+      //2.  return (x == y)?true:false;
+       return x == y;// 3.
     }
 
 }
