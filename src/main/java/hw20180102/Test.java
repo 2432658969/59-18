@@ -20,6 +20,7 @@ public class Test {
         
        biJiao(new Cat());
        biJiao(new Dog());
+       /*biJiao(null);*/
 
     }
     
